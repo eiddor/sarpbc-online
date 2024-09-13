@@ -1,6 +1,7 @@
 # sarpbc-online
 
-![image](https://github.com/user-attachments/assets/bebc2928-7f9c-4355-929e-425d2a5d6c3e)
+![image](https://github.com/user-attachments/assets/4924efd3-4171-4f9a-a082-3ef1fa542b32)
+
 (Logo by `sonic11719`)
 
 _Providing the ability to play Supersonic Acrobatic Rocket-Powered Battle-Cars (SARPBC) online again!_
@@ -56,15 +57,16 @@ ON PS STORE BEFORE PLAYING**
 
 > Configuration -> Advanced -> Network
 
-![image](https://github.com/user-attachments/assets/e261e2b1-01e4-4e11-9e59-e5d7c34f2ae2)
+![image](https://github.com/user-attachments/assets/1b5a8fee-1552-483b-b9a2-34a913b55259)
+
 
 2) In RPCS3, create an RPCN account
 
 > Configuration -> RPCN -> Account -> Create Account
 
-![image](https://github.com/user-attachments/assets/e3e1c56f-f694-4aba-bc6b-87156e7242f6)
-![image](https://github.com/user-attachments/assets/97a05d5a-984b-40ad-912c-b9561831cf23)
+![image](https://github.com/user-attachments/assets/f9d8cfab-7bc7-4fe8-a8c4-c426b61f823f)
 
+![image](https://github.com/user-attachments/assets/815577ed-faad-47d0-b7a1-e9cbb0efd5c0)
 
 > Follow the prompts and enter the token you receive via email
 
