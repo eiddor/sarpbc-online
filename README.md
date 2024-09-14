@@ -1,6 +1,6 @@
 # sarpbc-online
 
-![image](https://github.com/user-attachments/assets/4924efd3-4171-4f9a-a082-3ef1fa542b32)
+![image](https://github.com/user-attachments/assets/70cdcf0a-66f7-45c2-a806-a101b3b03c9a)
 
 _Providing the ability to play Supersonic Acrobatic Rocket-Powered Battle-Cars (SARPBC) online again!_
 
