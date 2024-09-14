@@ -2,8 +2,6 @@
 
 ![image](https://github.com/user-attachments/assets/4924efd3-4171-4f9a-a082-3ef1fa542b32)
 
-(Logo by `sonic11719`)
-
 _Providing the ability to play Supersonic Acrobatic Rocket-Powered Battle-Cars (SARPBC) online again!_
 
 **Note: I did not make this mod, nor do I host it - All I did was write this `README`**
@@ -16,7 +14,8 @@ _Providing the ability to play Supersonic Acrobatic Rocket-Powered Battle-Cars (
 4. [Play!!](#play)
 5. [Notes](#notes)
 6. [Known Issues](#known-issues)
-
+7. [Credits](#credits)
+   
 ## DISCLAIMER
 
 **THIS MOD IS INTENDED FOR PEOPLE WHO 
@@ -101,3 +100,8 @@ ON PS STORE BEFORE PLAYING**
  (fails to allocate memory)
 
 - Saving replays crashes the game
+
+### Credits
+
+- `kuxir97` - Mod and patch
+- `sonic11719` - Logo
